@@ -1,3 +1,4 @@
+!program GIT test
 program Iteration_7Point_Kvaziravnomernie_RmaxXX
 USE SpecFunc
 USE ModGlobal
