@@ -1,5 +1,4 @@
 !program GIT test
-!2020.05.31
 program Iteration_7Point_Kvaziravnomernie_RmaxXX
 USE SpecFunc
 USE ModGlobal
