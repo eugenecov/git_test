@@ -1,4 +1,5 @@
 !program GIT test
+! testing branch
 program Iteration_7Point_Kvaziravnomernie_RmaxXX
 USE SpecFunc
 USE ModGlobal
@@ -20,6 +21,8 @@ Implicit none
 	allocate( xtemp(1:N), xplusone(1:N), lyambdaold(1:N))
 	allocate(x(N),  A(N), B(N), C(N), D(N), E(N), F(N), G(N), HH(N), Psi(N))
 	
+	!и что нибудь еще
+
 	!начальные приближения по Psi(x)
 	h = (tmax-t0)/Dble(N)
 	!начальные приближения по Psi(x)
